@@ -1,0 +1,38 @@
+{
+  "sharingInfoStatus" : 0,
+  "sharingOperation" : 13,
+  "includeEnterpriseData" : false,
+  "supportRuntime" : false,
+  "externalProcessing" : true,
+  "scriptingCall" : false,
+  "shareWithMyOrg" : false,
+  "shareWithEveryOne" : false,
+  "isServiceConfiguration" : true,
+  "isViewingModeGlobalScene" : false,
+  "arcGISVersion" : 5,
+  "repositoryID" : 1,
+  "processID" : 22,
+  "viewerID" : 4,
+  "overwriteFlag" : 0,
+  "map20CIMPath" : "CIMPATH=map/map.xml",
+  "webItemName" : "Map510",
+  "webItemTitle" : "",
+  "sharingResults" : "",
+  "connectionID" : "",
+  "layerIDMap" : "",
+  "processingFolder" : "C:\\Users\\andr3019\\AppData\\Local\\Esri\\ArcGISPro\\Staging\\SharingProcesses\\0022",
+  "copiedMSDPath" : "C:\\Users\\andr3019\\AppData\\Local\\Esri\\ArcGISPro\\Staging\\SharingProcesses\\0022\\Map510.msd",
+  "originalAPRXPath" : "C:\\Users\\andr3019\\Documents\\ArcGIS\\Projects\\GroupLayerMap\\GroupLayerMap.aprx",
+  "processGUID" : "{15FED7EF-2C36-409C-9BF0-82365EB03497}",
+  "sharedGroupIDs" : "",
+  "summary" : "",
+  "tags" : "",
+  "targetURL" : "http://doodle.esri.com/portal/",
+  "federatedServerURL" : "",
+  "userName" : "admin",
+  "layerPublishingProps" : {
+  },
+  "manifestPaths" : [
+    "NewDraft | C:\\Users\\andr3019\\AppData\\Local\\Esri\\ArcGISPro\\Staging\\SharingProcesses\\0022\\Map510.sddraft"
+  ]
+}
